@@ -8,6 +8,10 @@ URL:		https://github.com/fcitx/libime
 License:	LGPL-2.1
 Group:		System/Libraries
 BuildRequires:	cmake
+BuildRequires:	cmake(ECM)
+BuildRequires:	cmake(Fcitx5Utils)
+BuildRequires:	boost-devel
+BuildRequires:	pkgconfig(libzstd)
 BuildSystem:	cmake
 
 %description
