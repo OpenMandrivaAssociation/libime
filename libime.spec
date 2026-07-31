@@ -1,5 +1,5 @@
 Name:		libime
-Version:	1.1.12
+Version:	1.1.15
 Release:	1
 Source0:	https://github.com/fcitx/libime/archive/%{version}/%{name}-%{version}.tar.gz
 Source1:	https://github.com/kpu/kenlm/archive/bcd4af619a2fa45f5876d8855f7876cc09f663af.tar.gz
